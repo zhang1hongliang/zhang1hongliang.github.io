@@ -22,5 +22,4 @@ Work experience
 
 * 2018.01-2021.03: Visiting Scholar
   * Wenzhou University
-  * Duties included: Merging pull requests
   * Supervisor: Professor Huiling Chen
