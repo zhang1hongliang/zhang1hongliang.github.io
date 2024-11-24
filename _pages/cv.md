@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* 	2019.01-2021.03: Chief Information Officer
+* 2019.01-2021.03: Chief Information Officer
   * Baisheng Hang-Wenzhou Railway Co., Ltd. Hangzhou branch
 
 * 2018.01-2021.03: Visiting Scholar
