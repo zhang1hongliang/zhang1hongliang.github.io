@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongliang Zhang"
+  name             : "Hongliang Zhang(张宏亮)"
   avatar           : "personal_photo.png"
   bio              : "An AI novice alchemist"
-  location         : "Location"
+  location         : "China Nanjing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=gXqI7zYAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Hongliang-Zhang-15"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/zhang1hongliang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
