@@ -23,3 +23,6 @@ Work experience
 * 2018.01-2021.03: Visiting Scholar
   * Wenzhou University
   * Supervisor: Professor Huiling Chen
+
+* 2013.08-2018.12: Lecturer
+  * City University of Wenzhou
