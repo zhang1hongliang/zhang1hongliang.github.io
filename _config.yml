@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hongliang Zhang (张宏亮)"
   avatar           : "images/hl_zhang.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Nanjing University of Science and Technology"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=gXqI7zYAAAAJ&hl=zh-CN"
+  email            : "zhang1hongliang@njust.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Hongliang-Zhang-15"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "zhang1hongliang"
   google_plus      :
   keybase          :
   instagram        :
