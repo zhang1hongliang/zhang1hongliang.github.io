@@ -23,7 +23,7 @@ My research interest includes evolutionary computation, machine learning, and co
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our work named FSL-LTL has been accepted by CCF B journal Pattern Recognition. 
+- *2024.08*: &nbsp;🎉🎉 Our work named FSL-LTL has been accepted by CCF B journal **Pattern Recognition**. 
 
 # 📝 Publications 
 
