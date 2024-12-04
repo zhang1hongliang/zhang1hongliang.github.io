@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN), and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=zh-CN) in PCALab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application. Before this, as a visiting scholar of Machine Learning and Medical Mining Lab I studied evolutionary algorithm and its application under the supervision of Prof. [Huiling Chen](https://scholar.google.com.hk/citations?user=IORgLocAAAAJ&hl=zh-CN).
+I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN), and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=zh-CN) in PCALab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application, and I'm glad to work with Dr. [Shuo Chen](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN) and Prof. [Jianjun Qian](https://scholar.google.com.hk/citations?user=oLLDUM0AAAAJ&hl=zh-CN) in the field of optimal transport. Before this, as a visiting scholar of Machine Learning and Medical Mining Lab I studied evolutionary algorithm and its application under the supervision of Prof. [Huiling Chen](https://scholar.google.com.hk/citations?user=IORgLocAAAAJ&hl=zh-CN).
 
 My research interest includes evolutionary computation, machine learning, and computer vision. I have published more than 10 papers at the famous international AI conferences and journals with total google scholar citations 600+.
 
@@ -28,25 +28,25 @@ My research interest includes evolutionary computation, machine learning, and co
 # 📝 Publications 
 1.[Few-shot learning with long-tailed labels](https://www.sciencedirect.com/science/article/pii/S0031320324005570)
 
-**Hongliang Zhang**, Shuo Chen, Lei Luo, Jiang Yang
+**Hongliang Zhang (First Author)**, Shuo Chen, Lei Luo, Jiang Yang
 
 **Pattern Recognition**, 2024
 
 2.[Unsupervised domain adaptation for Covid-19 classification based on balanced slice Wasserstein distance](https://www.sciencedirect.com/science/article/pii/S0010482523006728)
 
-Jiawei Gu, Xuan Qian, Qian Zhang, **Hongliang Zhang**, Fang Wu
+Jiawei Gu, Xuan Qian, Qian Zhang, **Hongliang Zhang (Corresponding Author)**, Fang Wu
 
 **Computers in Biology and Medicine**, 2023
 
 3.[Differential evolution-assisted salp swarm algorithm with chaotic structure for real-world problems](https://link.springer.com/article/10.1007/s00366-021-01545-x)
 
-**Hongliang Zhang**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
+**Hongliang Zhang (First Author)**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
 
 **Engineering with Computers**, 2023
 
 4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4)
 
-**Hongliang Zhang**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
+**Hongliang Zhang (First Author)**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
 
 **Engineering with Computers**, 2022
 
@@ -70,19 +70,19 @@ Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi 
 
 8.[Ensemble mutation-driven salp swarm algorithm with restart mechanism: Framework and fundamental analysis](https://www.sciencedirect.com/science/article/pii/S0957417420306977)
 
-**Hongliang Zhang**, Zhiyan Wang, Weibin Chen, Ali Asghar Heidari, Mingjing Wang, Xuehua Zhao, Guoxi Liang, Huiling Chen, Xin Zhang
+**Hongliang Zhang (First Author)**, Zhiyan Wang, Weibin Chen, Ali Asghar Heidari, Mingjing Wang, Xuehua Zhao, Guoxi Liang, Huiling Chen, Xin Zhang
 
 **Expert Systems with Applications**, 2021
 
 9.[Advanced orthogonal moth flame optimization with Broyden–Fletcher–Goldfarb–Shanno algorithm: Framework and real-world problems](https://www.sciencedirect.com/science/article/pii/S0957417420304413)
 
-**Hongliang Zhang**, Rong Li, Zhennao Cai, Zhiyang Gu, Ali Asghar Heidari, Mingjing Wang, Huiling Chen, Mayun Chen
+**Hongliang Zhang (First Author)**, Rong Li, Zhennao Cai, Zhiyang Gu, Ali Asghar Heidari, Mingjing Wang, Huiling Chen, Mayun Chen
 
 **Expert Systems with Applications**, 2020
 
 10.[Orthogonal Nelder-Mead moth flame method for parameters identification of photovoltaic modules](https://www.sciencedirect.com/science/article/pii/S0196890420303022)
 
-**Hongliang Zhang**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
+**Hongliang Zhang (First Author)**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
 
 **Energy Conversion and Management**, 2020
 
