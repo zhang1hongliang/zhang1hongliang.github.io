@@ -86,18 +86,20 @@ Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi 
 
 **Energy Conversion and Management**, 2020
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- -->
 
 # 📖 Educations
 - *2021.03 - 2025.12 (now)*, Present PhD Student, School of Computer Science and Technology, Nanjing University of Science and Technology. 
 - *2010.09 - 2013.06*, M.S. in Computer Science and Technology, Xiangtan University.
 - *2006.09 - 2010.06*, B.S. in Computer Science and Technology, Xiangtan University. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
