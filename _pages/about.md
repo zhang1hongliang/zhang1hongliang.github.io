@@ -92,7 +92,7 @@ Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi 
 - -->
 
 # 📖 Educations
-- *2021.03 - now*, Ph.D. Student, School of Computer Science and Technology, Nanjing University of Science and Technology. 
+- *2021.03 - now*, Ph.D. Student in Computer Science and Technology, Nanjing University of Science and Technology. 
 - *2010.09 - 2013.06*, M.S. in Computer Science and Technology, Xiangtan University.
 - *2006.09 - 2010.06*, B.S. in Computer Science and Technology, Xiangtan University. 
 
