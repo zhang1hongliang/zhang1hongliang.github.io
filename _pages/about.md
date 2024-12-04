@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN), and Prof. Jian Yang in PCALab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application. Before this, as a visiting scholar of Machine Learning and Medical Mining Lab I studied evolutionary algorithm and its application under the supervision of Prof. Huiling Chen.
+I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN), and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=zh-CN) in PCALab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application. Before this, as a visiting scholar of Machine Learning and Medical Mining Lab I studied evolutionary algorithm and its application under the supervision of Prof. [Huiling Chen](https://scholar.google.com.hk/citations?user=IORgLocAAAAJ&hl=zh-CN).
 
 My research interest includes evolutionary computation, machine learning, and computer vision. I have published more than 10 papers at the famous international AI conferences and journals with total google scholar citations 600+.
 
