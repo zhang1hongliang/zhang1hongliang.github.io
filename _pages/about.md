@@ -28,7 +28,7 @@ My research interest includes evolutionary computation, machine learning, and co
 # 📝 Publications 
 [Few-shot learning with long-tailed labels](https://www.sciencedirect.com/science/article/pii/S0031320324005570)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Hongliang Zhang**, Shuo Chen, Lei Luo, Jiang Yang
 
 **Pattern Recognition**
 
