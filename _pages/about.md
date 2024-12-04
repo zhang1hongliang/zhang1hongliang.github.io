@@ -30,8 +30,61 @@ My research interest includes evolutionary computation, machine learning, and co
 
 **Hongliang Zhang**, Shuo Chen, Lei Luo, Jiang Yang
 
-**Pattern Recognition**
+**Pattern Recognition**, 2024
 
+[Unsupervised domain adaptation for Covid-19 classification based on balanced slice Wasserstein distance](https://www.sciencedirect.com/science/article/pii/S0010482523006728)
+
+Jiawei Gu, Xuan Qian, Qian Zhang, **Hongliang Zhang**, Fang Wu
+
+**Computers in Biology and Medicine**, 2023
+
+[Differential evolution-assisted salp swarm algorithm with chaotic structure for real-world problems](https://link.springer.com/article/10.1007/s00366-021-01545-x)
+
+**Hongliang Zhang**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
+
+**Engineering with Computers**, 2023
+
+[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4)
+
+**Hongliang Zhang**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
+
+**Engineering with Computers**, 2022
+
+[Evolving kernel extreme learning machine for medical diagnosis via a disperse foraging sine cosine algorithm](https://www.sciencedirect.com/science/article/pii/S0010482521009318)
+
+Jianfu Xia, Daqing Yang, Hong Zhou, Yuyan Chen, **Hongliang Zhang**, Tong Liu, Ali Asghar Heidari, Huiling Chen, Zhifang Pan
+
+**Computers in Biology and Medicine**, 2022
+
+[Adaptive barebones salp swarm algorithm with quasi-oppositional learning for medical diagnosis systems: A comprehensive analysis](https://link.springer.com/article/10.1007/s42235-021-00114-8)
+
+Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Zhiyan Wang, Zhennao Cai, Zhiyang Gu, Huiling Chen, Zhifang Pan
+
+**Journal of Bionic Engineering**, 2022
+
+[Generalized oppositional moth flame optimization with crossover strategy: an approach for medical diagnosis](https://link.springer.com/article/10.1007/s42235-021-0068-1)
+
+Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi Mafarja, Zhifang Pan
+
+**Journal of Bionic Engineering**, 2021
+
+[Ensemble mutation-driven salp swarm algorithm with restart mechanism: Framework and fundamental analysis](https://www.sciencedirect.com/science/article/pii/S0957417420306977)
+
+**Hongliang Zhang**, Zhiyan Wang, Weibin Chen, Ali Asghar Heidari, Mingjing Wang, Xuehua Zhao, Guoxi Liang, Huiling Chen, Xin Zhang
+
+**Expert Systems with Applications**, 2021
+
+[Advanced orthogonal moth flame optimization with Broyden–Fletcher–Goldfarb–Shanno algorithm: Framework and real-world problems](https://www.sciencedirect.com/science/article/pii/S0957417420304413)
+
+**Hongliang Zhang**, Rong Li, Zhennao Cai, Zhiyang Gu, Ali Asghar Heidari, Mingjing Wang, Huiling Chen, Mayun Chen
+
+**Expert Systems with Applications**, 2020
+
+[Orthogonal Nelder-Mead moth flame method for parameters identification of photovoltaic modules](https://www.sciencedirect.com/science/article/pii/S0196890420303022)
+
+**Hongliang Zhang**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
+
+**Energy Conversion and Management**, 2020
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
