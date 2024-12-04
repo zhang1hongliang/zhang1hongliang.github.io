@@ -28,63 +28,63 @@ My research interest includes evolutionary computation, machine learning, and co
 # 📝 Publications 
 1.[Few-shot learning with long-tailed labels](https://www.sciencedirect.com/science/article/pii/S0031320324005570)
 
-**Hongliang Zhang (First Author)**, Shuo Chen, Lei Luo, Jiang Yang
+- **Hongliang Zhang (First Author)**, Shuo Chen, Lei Luo, Jiang Yang
 
-**Pattern Recognition**, 2024
+- **Pattern Recognition**, 2024
 
 2.[Unsupervised domain adaptation for Covid-19 classification based on balanced slice Wasserstein distance](https://www.sciencedirect.com/science/article/pii/S0010482523006728)
 
-Jiawei Gu, Xuan Qian, Qian Zhang, **Hongliang Zhang (Corresponding Author)**, Fang Wu
+- Jiawei Gu, Xuan Qian, Qian Zhang, **Hongliang Zhang (Corresponding Author)**, Fang Wu
 
-**Computers in Biology and Medicine**, 2023
+- **Computers in Biology and Medicine**, 2023
 
 3.[Differential evolution-assisted salp swarm algorithm with chaotic structure for real-world problems](https://link.springer.com/article/10.1007/s00366-021-01545-x)
 
-**Hongliang Zhang (First Author)**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
+- **Hongliang Zhang (First Author)**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
 
-**Engineering with Computers**, 2023
+- **Engineering with Computers**, 2023
 
 4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4)
 
-**Hongliang Zhang (First Author)**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
+- **Hongliang Zhang (First Author)**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
 
-**Engineering with Computers**, 2022
+- **Engineering with Computers**, 2022
 
 5.[Evolving kernel extreme learning machine for medical diagnosis via a disperse foraging sine cosine algorithm](https://www.sciencedirect.com/science/article/pii/S0010482521009318)
 
-Jianfu Xia, Daqing Yang, Hong Zhou, Yuyan Chen, **Hongliang Zhang**, Tong Liu, Ali Asghar Heidari, Huiling Chen, Zhifang Pan
+- Jianfu Xia, Daqing Yang, Hong Zhou, Yuyan Chen, **Hongliang Zhang**, Tong Liu, Ali Asghar Heidari, Huiling Chen, Zhifang Pan
 
-**Computers in Biology and Medicine**, 2022
+- **Computers in Biology and Medicine**, 2022
 
 6.[Adaptive barebones salp swarm algorithm with quasi-oppositional learning for medical diagnosis systems: A comprehensive analysis](https://link.springer.com/article/10.1007/s42235-021-00114-8)
 
-Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Zhiyan Wang, Zhennao Cai, Zhiyang Gu, Huiling Chen, Zhifang Pan
+- Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Zhiyan Wang, Zhennao Cai, Zhiyang Gu, Huiling Chen, Zhifang Pan
 
-**Journal of Bionic Engineering**, 2022
+- **Journal of Bionic Engineering**, 2022
 
 7.[Generalized oppositional moth flame optimization with crossover strategy: an approach for medical diagnosis](https://link.springer.com/article/10.1007/s42235-021-0068-1)
 
-Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi Mafarja, Zhifang Pan
+- Jianfu Xia, **Hongliang Zhang**, Rizeng Li, Huiling Chen, Hamza Turabieh, Majdi Mafarja, Zhifang Pan
 
-**Journal of Bionic Engineering**, 2021
+- **Journal of Bionic Engineering**, 2021
 
 8.[Ensemble mutation-driven salp swarm algorithm with restart mechanism: Framework and fundamental analysis](https://www.sciencedirect.com/science/article/pii/S0957417420306977)
 
-**Hongliang Zhang (First Author)**, Zhiyan Wang, Weibin Chen, Ali Asghar Heidari, Mingjing Wang, Xuehua Zhao, Guoxi Liang, Huiling Chen, Xin Zhang
+- **Hongliang Zhang (First Author)**, Zhiyan Wang, Weibin Chen, Ali Asghar Heidari, Mingjing Wang, Xuehua Zhao, Guoxi Liang, Huiling Chen, Xin Zhang
 
-**Expert Systems with Applications**, 2021
+- **Expert Systems with Applications**, 2021
 
 9.[Advanced orthogonal moth flame optimization with Broyden–Fletcher–Goldfarb–Shanno algorithm: Framework and real-world problems](https://www.sciencedirect.com/science/article/pii/S0957417420304413)
 
-**Hongliang Zhang (First Author)**, Rong Li, Zhennao Cai, Zhiyang Gu, Ali Asghar Heidari, Mingjing Wang, Huiling Chen, Mayun Chen
+- **Hongliang Zhang (First Author)**, Rong Li, Zhennao Cai, Zhiyang Gu, Ali Asghar Heidari, Mingjing Wang, Huiling Chen, Mayun Chen
 
-**Expert Systems with Applications**, 2020
+- **Expert Systems with Applications**, 2020
 
 10.[Orthogonal Nelder-Mead moth flame method for parameters identification of photovoltaic modules](https://www.sciencedirect.com/science/article/pii/S0196890420303022)
 
-**Hongliang Zhang (First Author)**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
+- **Hongliang Zhang (First Author)**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
 
-**Energy Conversion and Management**, 2020
+- **Energy Conversion and Management**, 2020
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
