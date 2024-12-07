@@ -38,13 +38,13 @@ My research interest includes evolutionary computation, machine learning, and co
 
 - **Computers in Biology and Medicine**, 2023
 
-3.[Differential evolution-assisted salp swarm algorithm with chaotic structure for real-world problems](https://link.springer.com/article/10.1007/s00366-021-01545-x)
+3.[Differential evolution-assisted salp swarm algorithm with chaotic structure for real-world problems](https://link.springer.com/article/10.1007/s00366-021-01545-x) (🏆 Highly Cited Paper)
 
 - **Hongliang Zhang (First Author)**, Tong Liu, Xiaojia Ye, Ali Asghar Heidari, Guoxi Liang, Huiling Chen, Zhifang Pan
 
 - **Engineering with Computers**, 2023
 
-4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4) (🏆 Highly Cited Paper)
+4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4)
 
 - **Hongliang Zhang (First Author)**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
 
