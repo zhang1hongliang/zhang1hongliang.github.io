@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN) and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=zh-CN) in PCA Lab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application, and I'm glad to work with Dr. [Shuo Chen](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN) and Prof. [Jianjun Qian](https://scholar.google.com.hk/citations?user=oLLDUM0AAAAJ&hl=zh-CN) in the field of optimal transport.
+I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN) and Prof. [Jian Yang](https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=zh-CN) in PCA Lab of Nanjing University of Science and Technology. During the period of doctorate candidate my research topic is about optimal transport and its application, and I'm glad to work with Assoc. Prof. [Shuo Chen](https://scholar.google.com.hk/citations?user=i3b5t0YAAAAJ&hl=zh-CN) and Prof. [Jianjun Qian](https://scholar.google.com.hk/citations?user=oLLDUM0AAAAJ&hl=zh-CN) in the field of optimal transport.
 
 Before this, as a visiting scholar in Machine Learning and Medical Mining Lab of Wenzhou University I studied evolutionary algorithm and its application under the supervision of Prof. [Huiling Chen](https://scholar.google.com.hk/citations?user=IORgLocAAAAJ&hl=zh-CN).
 
