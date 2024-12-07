@@ -101,6 +101,6 @@ My research interest includes evolutionary computation, machine learning, and co
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - -->
 
--- # 💻 Internships
+# 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
