@@ -44,7 +44,7 @@ My research interest includes evolutionary computation, machine learning, and co
 
 - **Engineering with Computers**, 2023
 
-4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4)
+4.[A multi-strategy enhanced salp swarm algorithm for global optimization](https://link.springer.com/article/10.1007/s00366-020-01099-4) (🏆 Highly Cited Paper)
 
 - **Hongliang Zhang (First Author)**, Zhennao Cai, Xiaojia Ye, Mingjing Wang, Fangjun Kuang, Huiling Chen, Chengye Li, Yuping Li
 
