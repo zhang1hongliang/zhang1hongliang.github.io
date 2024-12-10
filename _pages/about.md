@@ -29,7 +29,7 @@ My research interest includes evolutionary computation, machine learning, and co
 - *2024.12*: &nbsp;🎉🎉 Our work named **DSSW** has been accepted by the conference **AAAI 2025**.
 
 # 📝 Publications 
-1.[Towards Better Spherical Sliced-Wasserstein Distance Learning with Data-Adaptive Discriminative Projection Direction]
+1.Towards Better Spherical Sliced-Wasserstein Distance Learning with Data-Adaptive Discriminative Projection Direction
 
 - **Hongliang Zhang (First Author)**, Shuo Chen, Lei Luo, Jiang Yang
 
