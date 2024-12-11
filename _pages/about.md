@@ -25,8 +25,8 @@ My research interest includes evolutionary computation, machine learning, and co
 
 
 # 🔥 News
-- *2024.08*: &nbsp;🎉🎉 Our work named **FSL-LTL** has been accepted by the journal **Pattern Recognition**.
 - *2024.12*: &nbsp;🎉🎉 Our work named **DSSW** has been accepted by the conference **AAAI 2025**.
+- *2024.08*: &nbsp;🎉🎉 Our work named **FSL-LTL** has been accepted by the journal **Pattern Recognition**.
 
 # 📝 Publications 
 1.Towards Better Spherical Sliced-Wasserstein Distance Learning with Data-Adaptive Discriminative Projection Direction
