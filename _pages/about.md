@@ -89,7 +89,7 @@ My research interest includes evolutionary computation, machine learning, and co
 
 - **Expert Systems with Applications**, 2020
 
-11.[Orthogonal Nelder-Mead moth flame method for parameters identification of photovoltaic modules](https://www.sciencedirect.com/science/article/pii/S0196890420303022) (🏆 Highly Cited Paper)
+11.[Orthogonal Nelder-Mead moth flame method for parameters identification of photovoltaic modules](https://www.sciencedirect.com/science/article/pii/S0196890420303022) (🏆 Highly Cited Paper) <strong><span class='show_paper_citations' data='gXqI7zYAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 - **Hongliang Zhang (First Author)**, Ali Asghar Heidari, Mingjing Wang, Lejun Zhang, Huiling Chen, Chengye Li
 
