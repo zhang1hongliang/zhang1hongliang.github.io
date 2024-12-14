@@ -21,7 +21,7 @@ I am pursuing my doctorate under the supervision of Prof. [Lei Luo](https://scho
 
 Before this, as a visiting scholar in Machine Learning and Medical Mining Lab of Wenzhou University I studied evolutionary algorithm and its application under the supervision of Prof. [Huiling Chen](https://scholar.google.com.hk/citations?user=IORgLocAAAAJ&hl=zh-CN).
 
-My research interest includes evolutionary computation, machine learning, and computer vision. I have published more than 10 papers at the famous international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=gXqI7zYAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=gXqI7zYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes evolutionary computation, machine learning, and computer vision. I have published more than 10 papers at the famous international AI conferences and journals with total <a href='https://scholar.google.com/citations?user=gXqI7zYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2zhang1hognliang%2Fzhang1hognliang.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 # 🔥 News
